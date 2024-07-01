@@ -1,0 +1,15 @@
+Для ментора, проверяющего задание.
+
+Я понял, что нужно сделать так же как и в примере, три вариации связей для всех оставшихся.
+
+Koshei - через setOcean1
+Ocean1 - через поле Island2
+Island2 - через @Bean getIslabd в AppConfig
+
+Wood3 - через setRabbit4
+Rabbit4 - через поле Duck5
+Duck5 - через @Bean getDuck5 в AppConfig
+
+Egg6 - через setNeedle7
+Needle7 - через поле Deth8
+Deth8 - без изменений
